@@ -298,6 +298,7 @@ Cryptocurrency study material resources
 * [Blockchain Size:](https://blockchain.info/charts/blocks-size)
 * [Blockonomics](https://www.blockonomics.co/)
 * [Blockstack Explorer](https://explorer.blockstack.org/)
+* [Chain.Love](https://chain.love/) - Open-source dataset of Web3 infrastructure providers, including RPCs, indexers, wallets and explorers, for cross-network service discovery.
 * [Blockr](http://blockr.io/)
 * [Blocktrail](https://www.blocktrail.com/BTC)
 * [Btc Chain](https://btc.com/)
